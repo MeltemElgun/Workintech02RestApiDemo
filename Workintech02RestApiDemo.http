@@ -1,0 +1,6 @@
+@Workintech02RestApiDemo_HostAddress = http://localhost:5092
+
+GET {{Workintech02RestApiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
